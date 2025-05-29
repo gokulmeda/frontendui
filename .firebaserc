@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "evteam-warriors",
+    "main": "evteam-warriors",
+    "staging": "evteam-warriors"
+  },
+  "targets": {},
+  "etags": {}
+}
